@@ -1,0 +1,12 @@
+Alerta: Arquivo de Prática de Programação
+Aviso Importante:
+
+Este arquivo foi criado exclusivamente para fins de prática e aprendizado de programação. O conteúdo aqui presente é para ajudar no desenvolvimento de habilidades e não deve ser utilizado em ambientes de produção ou para fins comerciais.
+
+Se você encontrou este arquivo, saiba que ele pode conter códigos e técnicas que estão em fase de experimentação ou desenvolvimento. Recomenda-se a revisão e adaptação do código antes de qualquer uso prático.
+
+Objetivo do Arquivo:
+
+Prática de Programação: Testar e aplicar conceitos aprendidos.
+Desenvolvimento de Habilidades: Experimentar com novas técnicas e soluções.
+Agradecemos por seu interesse e compreensão.
