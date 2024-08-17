@@ -9,7 +9,7 @@ def soma(cpf, multiplicador):
         multiplicador -= 1
     resto = total % 11 
 
-    if resto < 2:
+    if (resto < 2):
         return '0'
     
     return str(11 - resto)
